@@ -6,7 +6,7 @@ Design a user management system for a web application to handle user authenticat
 
 ---
 
-create schema.js file and creat the schema in that file.
+create schema.js file and create the schema in that file.
 
 ## **Schema Requirements**
 
@@ -101,7 +101,7 @@ create schema.js file and creat the schema in that file.
 
 - Once your code is successfully pushed to GitHub:
   1. Copy the link to your GitHub repository.
-  2. Submit the link on the assignment submission portal.  
+  2. Submit the link on the assignment submission portal. 
      The link should follow this format:  
      **`https://github.com/<your_username>/<repository_name>`**
 
